@@ -2,7 +2,7 @@ import React, { useState } from 'react'
 import { Popover } from 'antd'
 
 import { IDocumentationItemPopover } from '../../../common/types'
-import { generatePopoverOptions } from '../DocumentationCommons/DocumentationCommons'
+import { generatePopoverOptions } from '../shared/sharedFunctions'
 
 import './DocumentationItemPopover.scss'
 
@@ -12,7 +12,6 @@ export const DocumentationItemPopover: React.FC<IDocumentationItemPopover> = ({
   insertIntoDoc,
 }: IDocumentationItemPopover) => {
   const [visible, setVisible] = useState(false)
-  const setGeneratedId = useState('')[1]
 
   const handleVisibleChange = (newVisibleState: boolean) => {
     setVisible(newVisibleState)
@@ -26,7 +25,6 @@ export const DocumentationItemPopover: React.FC<IDocumentationItemPopover> = ({
       trigger="click"
       content={generatePopoverOptions(
         'item',
-        setGeneratedId,
         insertIntoDoc,
         setReference,
         setVisible

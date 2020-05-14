@@ -9,7 +9,6 @@ import {
 } from '@ant-design/icons'
 
 export const generateContent = (
-  setGeneratedId: Function,
   type: string,
   insertIntoDoc: Function,
   setReference: Function,
@@ -20,8 +19,6 @@ export const generateContent = (
   }
 
   const uniqueId = uniqid()
-
-  setGeneratedId(uniqueId)
 
   let newContent
 
@@ -82,7 +79,6 @@ export const generateContent = (
 
 export const generatePopoverOptions = (
   area: string,
-  setGeneratedId: Function,
   insertIntoDoc: Function,
   setReference: Function,
   setVisible?: Function
@@ -93,18 +89,14 @@ export const generatePopoverOptions = (
         <div>
           <span
             className="docItem"
-            onClick={() =>
-              generateContent(setGeneratedId, 'h1', insertIntoDoc, setReference)
-            }
+            onClick={() => generateContent('h1', insertIntoDoc, setReference)}
           >
             H<sub>1</sub>
           </span>
 
           <span
             className="docItem"
-            onClick={() =>
-              generateContent(setGeneratedId, 'h3', insertIntoDoc, setReference)
-            }
+            onClick={() => generateContent('h3', insertIntoDoc, setReference)}
           >
             H<sub>3</sub>
           </span>
@@ -116,13 +108,7 @@ export const generatePopoverOptions = (
           <span
             className="docItem"
             onClick={() =>
-              generateContent(
-                setGeneratedId,
-                'h1',
-                insertIntoDoc,
-                setReference,
-                setVisible
-              )
+              generateContent('h1', insertIntoDoc, setReference, setVisible)
             }
           >
             H<sub>1</sub>
@@ -131,13 +117,7 @@ export const generatePopoverOptions = (
           <span
             className="docItem"
             onClick={() =>
-              generateContent(
-                setGeneratedId,
-                'h3',
-                insertIntoDoc,
-                setReference,
-                setVisible
-              )
+              generateContent('h3', insertIntoDoc, setReference, setVisible)
             }
           >
             H<sub>3</sub>
