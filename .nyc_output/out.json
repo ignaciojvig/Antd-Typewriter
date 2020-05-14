@@ -1,0 +1,679 @@
+{
+  "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\components\\counter\\Counter.slice.ts": {
+    "path": "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\components\\counter\\Counter.slice.ts",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 9,
+          "column": 21
+        },
+        "end": {
+          "line": 11,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 13,
+          "column": 28
+        },
+        "end": {
+          "line": 24,
+          "column": 2
+        }
+      },
+      "2": {
+        "start": {
+          "line": 18,
+          "column": 6
+        },
+        "end": {
+          "line": 18,
+          "column": 22
+        }
+      },
+      "3": {
+        "start": {
+          "line": 21,
+          "column": 6
+        },
+        "end": {
+          "line": 21,
+          "column": 22
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 17,
+            "column": 15
+          },
+          "end": {
+            "line": 17,
+            "column": 16
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 26
+          },
+          "end": {
+            "line": 19,
+            "column": 5
+          }
+        },
+        "line": 17
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 20,
+            "column": 15
+          },
+          "end": {
+            "line": 20,
+            "column": 16
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 26
+          },
+          "end": {
+            "line": 22,
+            "column": 5
+          }
+        },
+        "line": 20
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 0,
+      "3": 0
+    },
+    "f": {
+      "0": 0,
+      "1": 0
+    },
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "a7b2336a5f9150145d6b7e4eef6034c2b4cf3c6c"
+  },
+  "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\store.ts": {
+    "path": "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\store.ts",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 6,
+          "column": 20
+        },
+        "end": {
+          "line": 8,
+          "column": 2
+        }
+      },
+      "1": {
+        "start": {
+          "line": 10,
+          "column": 21
+        },
+        "end": {
+          "line": 10,
+          "column": 61
+        }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1
+    },
+    "f": {},
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "30ac02f5e0e0dc150445c6c8306b59a86940654d"
+  },
+  "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\components\\Navbar.tsx": {
+    "path": "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\components\\Navbar.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 32
+        },
+        "end": {
+          "line": 20,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 5,
+          "column": 2
+        },
+        "end": {
+          "line": 19,
+          "column": 8
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 4,
+            "column": 32
+          },
+          "end": {
+            "line": 4,
+            "column": 33
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 2
+          },
+          "end": {
+            "line": 19,
+            "column": 8
+          }
+        },
+        "line": 5
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1
+    },
+    "f": {
+      "0": 1
+    },
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "68b3a678488599385de3b03274c7ea66c5cf79aa"
+  },
+  "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\pages\\About.tsx": {
+    "path": "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\pages\\About.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 31
+        },
+        "end": {
+          "line": 26,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 5,
+          "column": 18
+        },
+        "end": {
+          "line": 5,
+          "column": 30
+        }
+      },
+      "2": {
+        "start": {
+          "line": 7,
+          "column": 2
+        },
+        "end": {
+          "line": 25,
+          "column": 3
+        }
+      },
+      "3": {
+        "start": {
+          "line": 20,
+          "column": 23
+        },
+        "end": {
+          "line": 20,
+          "column": 40
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 4,
+            "column": 31
+          },
+          "end": {
+            "line": 4,
+            "column": 32
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 37
+          },
+          "end": {
+            "line": 26,
+            "column": 1
+          }
+        },
+        "line": 4
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 20,
+            "column": 17
+          },
+          "end": {
+            "line": 20,
+            "column": 18
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 23
+          },
+          "end": {
+            "line": 20,
+            "column": 40
+          }
+        },
+        "line": 20
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 0,
+      "2": 0,
+      "3": 0
+    },
+    "f": {
+      "0": 0,
+      "1": 0
+    },
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "6ed9cb6ee5e41e96aabce8798a9e54e0f138fb16"
+  },
+  "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\components\\counter\\Counter.tsx": {
+    "path": "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\components\\counter\\Counter.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 5,
+          "column": 26
+        },
+        "end": {
+          "line": 53,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 6,
+          "column": 64
+        },
+        "end": {
+          "line": 6,
+          "column": 75
+        }
+      },
+      "2": {
+        "start": {
+          "line": 7,
+          "column": 16
+        },
+        "end": {
+          "line": 7,
+          "column": 64
+        }
+      },
+      "3": {
+        "start": {
+          "line": 7,
+          "column": 44
+        },
+        "end": {
+          "line": 7,
+          "column": 63
+        }
+      },
+      "4": {
+        "start": {
+          "line": 9,
+          "column": 22
+        },
+        "end": {
+          "line": 9,
+          "column": 34
+        }
+      },
+      "5": {
+        "start": {
+          "line": 11,
+          "column": 19
+        },
+        "end": {
+          "line": 11,
+          "column": 32
+        }
+      },
+      "6": {
+        "start": {
+          "line": 13,
+          "column": 2
+        },
+        "end": {
+          "line": 52,
+          "column": 3
+        }
+      },
+      "7": {
+        "start": {
+          "line": 34,
+          "column": 33
+        },
+        "end": {
+          "line": 34,
+          "column": 62
+        }
+      },
+      "8": {
+        "start": {
+          "line": 42,
+          "column": 33
+        },
+        "end": {
+          "line": 42,
+          "column": 62
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 5,
+            "column": 26
+          },
+          "end": {
+            "line": 5,
+            "column": 27
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 32
+          },
+          "end": {
+            "line": 53,
+            "column": 1
+          }
+        },
+        "line": 5
+      },
+      "1": {
+        "name": "(anonymous_1)",
+        "decl": {
+          "start": {
+            "line": 7,
+            "column": 33
+          },
+          "end": {
+            "line": 7,
+            "column": 34
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 44
+          },
+          "end": {
+            "line": 7,
+            "column": 63
+          }
+        },
+        "line": 7
+      },
+      "2": {
+        "name": "(anonymous_2)",
+        "decl": {
+          "start": {
+            "line": 34,
+            "column": 27
+          },
+          "end": {
+            "line": 34,
+            "column": 28
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 34,
+            "column": 33
+          },
+          "end": {
+            "line": 34,
+            "column": 62
+          }
+        },
+        "line": 34
+      },
+      "3": {
+        "name": "(anonymous_3)",
+        "decl": {
+          "start": {
+            "line": 42,
+            "column": 27
+          },
+          "end": {
+            "line": 42,
+            "column": 28
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 42,
+            "column": 33
+          },
+          "end": {
+            "line": 42,
+            "column": 62
+          }
+        },
+        "line": 42
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1,
+      "2": 1,
+      "3": 2,
+      "4": 1,
+      "5": 1,
+      "6": 1,
+      "7": 0,
+      "8": 0
+    },
+    "f": {
+      "0": 1,
+      "1": 2,
+      "2": 0,
+      "3": 0
+    },
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "f4adaacd49f637fdec2193976025bb7158661dbc"
+  },
+  "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\pages\\Home.tsx": {
+    "path": "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\pages\\Home.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 4,
+          "column": 30
+        },
+        "end": {
+          "line": 16,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 5,
+          "column": 2
+        },
+        "end": {
+          "line": 15,
+          "column": 3
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 4,
+            "column": 30
+          },
+          "end": {
+            "line": 4,
+            "column": 31
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 36
+          },
+          "end": {
+            "line": 16,
+            "column": 1
+          }
+        },
+        "line": 4
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1
+    },
+    "f": {
+      "0": 1
+    },
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "06b88d142944c20af1c37debc88ac87ae0f8487a"
+  },
+  "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\App.tsx": {
+    "path": "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\App.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 7,
+          "column": 22
+        },
+        "end": {
+          "line": 19,
+          "column": 1
+        }
+      },
+      "1": {
+        "start": {
+          "line": 8,
+          "column": 2
+        },
+        "end": {
+          "line": 18,
+          "column": 3
+        }
+      }
+    },
+    "fnMap": {
+      "0": {
+        "name": "(anonymous_0)",
+        "decl": {
+          "start": {
+            "line": 7,
+            "column": 22
+          },
+          "end": {
+            "line": 7,
+            "column": 23
+          }
+        },
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 28
+          },
+          "end": {
+            "line": 19,
+            "column": 1
+          }
+        },
+        "line": 7
+      }
+    },
+    "branchMap": {},
+    "s": {
+      "0": 1,
+      "1": 1
+    },
+    "f": {
+      "0": 1
+    },
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "22f7215720a6cd3a7db9dc2e02366690a5cbaf39"
+  },
+  "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\index.tsx": {
+    "path": "C:\\Users\\vntjoig\\Projects\\Ingenico\\DevPortal\\frontend\\src\\index.tsx",
+    "statementMap": {
+      "0": {
+        "start": {
+          "line": 10,
+          "column": 0
+        },
+        "end": {
+          "line": 15,
+          "column": 1
+        }
+      }
+    },
+    "fnMap": {},
+    "branchMap": {},
+    "s": {
+      "0": 1
+    },
+    "f": {},
+    "b": {},
+    "_coverageSchema": "43e27e138ebf9cfc5966b082cf9a028302ed4184",
+    "hash": "7c07644b0b5561ab13ce20d1706135549f8aa7ed"
+  }
+}

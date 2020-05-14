@@ -1,0 +1,22 @@
+.layoutPopover {
+  width: 100%;
+
+  .docItem {
+    margin: 0 0.3em;
+    cursor: pointer;
+  }
+
+  .ant-popover-arrow {
+    display: none;
+  }
+  .ant-popover-inner-content {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .ant-popover-placement-top,
+  .ant-popover-placement-topLeft,
+  .ant-popover-placement-topRight {
+    width: 100%;
+  }
+}
